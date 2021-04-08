@@ -16,7 +16,7 @@ Learn the basics of git workflow, including adding new files.
 
 5. Add the image to this file using markdown syntax.
 
-![alt text for screen readers](../cat.jpg "Text to show on mouseover")
+![alt text for screen readers](/cat.jpg "Text to show on mouseover")
    
 5. this is a cat
 
