@@ -16,10 +16,9 @@ Learn the basics of git workflow, including adding new files.
 
 5. Add the image to this file using markdown syntax.
 
-[img](cat.JPEG)
+![alt text for screen readers](../cat.JPEG "Text to show on mouseover")
    
-5. Write a paragraph of text where you explaine what the picture is
-   about.  Feel free to add more.
+5. this is a cat
 
 4. commit your changes:  
 `git commit -am "<explain what did you do>"`
